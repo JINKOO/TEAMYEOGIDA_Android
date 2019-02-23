@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">YEOGIDA</string>
-    <string name="kakao_app_key">4022afd1c2beca825f98cba4f704f00d</string>
+    <string name="kakao_app_key"></string>
     <string name="action_settings">Settings</string>
     <string name="msg_search_address">주소 검색(다음)</string>
     <string name="dummy_text1">"여기다 앱의 이용약관입니다."
